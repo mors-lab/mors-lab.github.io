@@ -4,8 +4,15 @@ title: People
 permalink: /people/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Director
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
++ Esra Kadioglu-Urtis
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+![Esra Kadioglu](http://mors-lab.github.io/img/esra_pic2.jpg)
+
+
+## Undergraduate Students
+
+![Umur Sengul](http://mors-lab.github.io/img/umur.jpeg)
+
+![Tarik Kelestemur](http://mors-lab.github.io/img/tarik.jpg)
