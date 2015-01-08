@@ -12,7 +12,3 @@ permalink: /people/
 
 
 ## Undergraduate Students
-
-![Umur Sengul](http://mors-lab.github.io/img/umur.jpeg)
-
-![Tarik Kelestemur](http://mors-lab.github.io/img/tarik.jpg)
