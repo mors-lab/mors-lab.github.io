@@ -4,7 +4,7 @@ email: mors.laboratory@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Söğütözü Avenue 43, Söğütözü, Ankara, 06560 Turkey
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://mors.etu.edu.tr" # the base hostname & protocol for your site
 twitter_username: MORS_Lab
 github_username:  mors-lab
 
