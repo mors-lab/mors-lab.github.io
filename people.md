@@ -31,7 +31,7 @@ permalink: /people/
 
 ## Undergraduate Students
 
-<img style="text-align: justify;" src="/img/umur2.jpg" alt="Umur Sengul" style="width:250px;height:270px">
+<img style="text-align: justify;" src="/img/umur2.jpg" alt="Umur Sengul" style="width:270px;height:250px">
 <br>
 
 + Umur Ozhan Sengul
