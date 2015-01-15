@@ -4,8 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
++ Ahmet Tunç Bilgin, "AN APPROACH TO MULTI-AGENT PURSUIT EVASION GAMES USING REINFORCEMENT LEARNING", MS Thesis, TOBB ETÜ Department of Computer Engineering, 2013.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
++ Omer Cayirpunar, Esra Kadioglu-Urtis, Bulent Tavli, "The impact of base station mobility patterns on Wireless Sensor Network lifetime", Personal Indoor and Mobile Radio Communications (PIMRC), 2013 IEEE 24th International Symposium, 2701-2706
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
++ Omer Cayirpunar, Esra Kadioglu-Urtis, Bulent Tavli, "Mobile base station position optimization for network lifetime maximization in wireless sensor networks", Signal Processing and Communications Applications Conference (SIU), 2013 21st
+
++ Esra Kadioglu-Urtis, N Papanikolopoulos, "Multi-robot pursuit with visibility constraints", Computer and Information Sciences, 2009. ISCIS 2009. 24th International Symposium on, 274-279
