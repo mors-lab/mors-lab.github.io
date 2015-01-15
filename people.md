@@ -15,7 +15,19 @@ permalink: /people/
 
 ## PhD Students
 
-+ will be updated
+<img style="text-align: justify;" src="/img/TOBB_ETU_logo_EN.jpg" alt="Omer Cayirpunar" style="width:250px;height:270px">
+<br>
+
++ Omer Cayirpunar
++ Email:
++ Website:
+
+<img style="text-align: justify;" src="/img/TOBB_ETU_logo_EN.jpg" alt="Mehmet Unal Durmus" style="width:250px;height:270px">
+<br>
+
++ Mehmet Unal Durmus
++ Email:
++ Website:
 
 ## Undergraduate Students
 
