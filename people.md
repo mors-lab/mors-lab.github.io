@@ -15,7 +15,7 @@ permalink: /people/
 
 ## PhD Students
 
-<img style="text-align: justify;" src="/img/TOBB_ETU_logo_EN.jpg" alt="Omer Cayirpunar" style="width:250px;height:200px">
+<img style="text-align: justify;" src="/img/omer.jpg" alt="Omer Cayirpunar" style="width:250px;height:250px">
 <br>
 
 + Omer Cayirpunar
