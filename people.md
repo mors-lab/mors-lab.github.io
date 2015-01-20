@@ -15,14 +15,14 @@ permalink: /people/
 
 ## PhD Students
 
-<img style="text-align: justify;" src="/img/omer.jpg" alt="Omer Cayirpunar" style="width:250px;height:250px">
+<img style="text-align: justify;" src="/img/omer.jpg" alt="Omer Cayirpunar" style="width:188px;height:188px">
 <br>
 
 + Omer Cayirpunar
 + Email:
 + Website:
 
-<img style="text-align: justify;" src="/img/TOBB_ETU_logo_EN.jpg" alt="Mehmet Unal Durmus" style="width:250px;height:200px">
+<img style="text-align: justify;" src="/img/TOBB_ETU_logo_EN.jpg" alt="Mehmet Unal Durmus" style="width:188px;height:188px">
 <br>
 
 + Mehmet Unal Durmus
@@ -31,14 +31,14 @@ permalink: /people/
 
 ## Undergraduate Students
 
-<img style="text-align: justify;" src="/img/umur2.jpg" alt="Umur Sengul" style="width:250px;height:243px">
+<img style="text-align: justify;" src="/img/umur2.jpg" alt="Umur Sengul" style="width:188px;height:188px">
 <br>
 
 + Umur Ozhan Sengul
 + Email: sengulumur[at]gmail[dot]com
 + Website:
 
-<img style="text-align: justify;" src="/img/tarik.jpg" alt="Tarik Kelestemur" style="width:250px;height:270px">
+<img style="text-align: justify;" src="/img/tarik.jpg" alt="Tarik Kelestemur" style="width:188px;height:188px">
 <br>
 
 + Tarik Kelestemur
