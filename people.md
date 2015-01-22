@@ -22,7 +22,7 @@ permalink: /people/
 + Email:
 + Website:
 
-<img style="text-align: justify;" src="/img/unal2.jpg" alt="Mehmet Unal Durmus" style="width:188px;height:188px">
+<img style="text-align: justify;" src="/img/unal1.jpg" alt="Mehmet Unal Durmus" style="width:188px;height:188px">
 <br>
 
 + Mehmet Unal Durmus
