@@ -4,8 +4,19 @@ title: Research
 permalink: /research/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+MORS Lab is eager to support undergraduate students who have research or project ideas in robotics. The lab currently owns 3 Kobuki robot platforms, 3 MS Kinect sensors, 1 Trossen 6 DOF arm, 3 LIDAR sensors, a number of Parallax BoeBot and Sparki robots -mostly used for the BIL 486 Introduction to Robotics class- and various other equipment. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Past Undergraduate Projects Include:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Graduation Projects:
+
+- "Delivery Robot", Gizem Köten & Gizem Bolayır, https://www.youtube.com/watch?v=ko6gb4BbinQ, 2014
+
+- "Delivery Robot", Ayça Akçay & Kutlu Saydam, 2014
+
+
+BIL 486 Introduction to Robotics Class Projects:
+
+
+- "Line following / Obstacle Avoiding / Maze Robot", Sıla Şibil, İdil Hocaoğlu, Ali Can Albayrak, 
+https://www.youtube.com/watch?v=mK7E-GPM5EY , 2013
