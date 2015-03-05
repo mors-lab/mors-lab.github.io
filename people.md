@@ -8,7 +8,7 @@ permalink: /people/
 
 ![Esra Kadioglu](/img/esra_pic2.jpg)
 
-+ Esra Kadioglu-Urtis
++ Dr. Esra Kadioglu-Urtis
 + Email: kadioglu[at]gmail[dot]com
 + Website:
 
@@ -43,4 +43,4 @@ permalink: /people/
 
 + Tarik Kelestemur
 + Email: tkelestemur[at]gmail[dot]com
-+ Website: kelestemur.com
++ Website: <a href="http://www.kelestemur.com">www.kelestemur.com</a>
