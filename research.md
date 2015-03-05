@@ -8,14 +8,14 @@ MORS Lab is eager to support undergraduate students who have research or project
 
 <h4><mark>Past Undergraduate Projects Include:</mark></h4>
 
-<h6>Graduation Projects:</h6>
+<h5>Graduation Projects:</h5>
 
 - "Delivery Robot", Gizem Köten & Gizem Bolayır, <a href="https://www.youtube.com/watch?v=ko6gb4BbinQ">Video Link</a>, 2014
 
 - "Delivery Robot", Ayça Akçay & Kutlu Saydam, 2014
 
 
-<h6>BIL 486 Introduction to Robotics Class Projects:</h6>
+<h5>BIL 486 Introduction to Robotics Class Projects:</h5>
 
 
 - "Line following / Obstacle Avoiding / Maze Robot", Sıla Şibil, İdil Hocaoğlu, Ali Can Albayrak, 
