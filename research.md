@@ -6,16 +6,16 @@ permalink: /research/
 
 MORS Lab is eager to support undergraduate students who have research or project ideas in robotics. The lab currently owns 3 Kobuki robot platforms, 3 MS Kinect sensors, 1 Trossen 6 DOF arm, 3 LIDAR sensors, a number of Parallax BoeBot and Sparki robots -mostly used for the BIL 486 Introduction to Robotics class- and various other equipment. 
 
-<mark>Past Undergraduate Projects Include:</mark>
+<h4><mark>Past Undergraduate Projects Include:</mark></h4>
 
-<b>Graduation Projects:</b>
+<h6>Graduation Projects:</h6>
 
-- "Delivery Robot", Gizem Köten & Gizem Bolayır, < href="https://www.youtube.com/watch?v=ko6gb4BbinQ">Video Link</a>, 2014
+- "Delivery Robot", Gizem Köten & Gizem Bolayır, <a href="https://www.youtube.com/watch?v=ko6gb4BbinQ">Video Link</a>, 2014
 
 - "Delivery Robot", Ayça Akçay & Kutlu Saydam, 2014
 
 
-<b>BIL 486 Introduction to Robotics Class Projects:</b>
+<h6>BIL 486 Introduction to Robotics Class Projects:</h6>
 
 
 - "Line following / Obstacle Avoiding / Maze Robot", Sıla Şibil, İdil Hocaoğlu, Ali Can Albayrak, 
