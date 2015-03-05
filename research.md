@@ -6,7 +6,7 @@ permalink: /research/
 
 MORS Lab is eager to support undergraduate students who have research or project ideas in robotics. The lab currently owns 3 Kobuki robot platforms, 3 MS Kinect sensors, 1 Trossen 6 DOF arm, 3 LIDAR sensors, a number of Parallax BoeBot and Sparki robots -mostly used for the BIL 486 Introduction to Robotics class- and various other equipment. 
 
-<b>Past Undergraduate Projects Include:</b>
+<em>Past Undergraduate Projects Include:</em>
 
 <b>Graduation Projects:</b>
 
