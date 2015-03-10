@@ -10,18 +10,16 @@ MORS Lab is eager to support undergraduate students who have research or project
 
 <h5>Graduation Projects:</h5>
 
-- "Controlling Boe-Bot with Image Processing", F. Ayça Deniz & F. Şeyda Yücel, <a href="https://www.youtube.com/watch?v=hAn9vBbCaUs">Video Link</a>, 2011
-
 - "Delivery Robot", Gizem Köten & Gizem Bolayır, <a href="https://www.youtube.com/watch?v=ko6gb4BbinQ">Video Link</a>, 2014
 
-- "Delivery Robot", Ayça Akçay & Kutlu Saydam, 2014
+- "Delivery Robot", Ayça Akçay & Kutlu Saydam, <a href="https://www.youtube.com/watch?v=xjkOw5auoWs">Video Link</a>, 2014
+
+- "Controlling Boe-Bot with Image Processing", F. Ayça Deniz & F. Şeyda Yücel, <a href="https://www.youtube.com/watch?v=hAn9vBbCaUs">Video Link</a>, 2011
 
 
 <h5>BIL 486 Introduction to Robotics Class Projects:</h5>
 
-
-- "Line following / Obstacle Avoiding / Maze Robot", F. Ayça Deniz, F. Şeyda Yücel,
-<a href="https://www.youtube.com/watch?v=KiEcEdTQZAA">Video Link</a>, 2011
 - "Line following / Obstacle Avoiding / Maze Robot", Sıla Şibil, İdil Hocaoğlu, Ali Can Albayrak, 
 <a href="https://www.youtube.com/watch?v=mK7E-GPM5EY">Video Link</a>, 2013
-
+- "Line following / Obstacle Avoiding / Maze Robot", F. Ayça Deniz, F. Şeyda Yücel,
+<a href="https://www.youtube.com/watch?v=KiEcEdTQZAA">Video Link</a>, 2011
