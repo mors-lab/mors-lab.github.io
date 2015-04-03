@@ -10,7 +10,7 @@ MORS Lab is eager to support undergraduate students who have research or project
 
 <h5>Graduation Projects:</h5>
 
-- "Autonomous Indoor Navigation with TurtleBot ", Tarik Kelestemur, Furkan Duyar <a href="https://www.youtube.com/watch?v=0eDFSXPnh2I">Video Link 1</a>, 2015
+- "Autonomous Indoor Navigation with TurtleBot ", Tarik Kelestemur, Furkan Duyar <a href="https://www.youtube.com/watch?v=0eDFSXPnh2I">Video Link</a>, 2015
 
 - "Gesture Controlled Robotic Arm", Berat ATMACA, İpek Feriha KILIÇ, Osman Ural KESER, <a href="https://www.youtube.com/watch?v=EyTJPv_pgxg">Video Link 1</a>, <a href="https://www.youtube.com/watch?v=Su_mfJR7r_4">Video Link 2</a>, 2015
 
