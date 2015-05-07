@@ -15,19 +15,24 @@ permalink: /people/
 
 ## PhD Students
 
-<img style="text-align: justify;" src="/img/omer.jpg" alt="Omer Cayirpunar" style="width:188px;height:188px">
-<br>
-
-+ Omer Cayirpunar
-+ Email:
-+ Website:
-
-<img style="text-align: justify;" src="/img/unal1.jpg" alt="Mehmet Unal Durmus" style="width:188px;height:188px">
-<br>
-
-+ Mehmet Unal Durmus
-+ Email:
-+ Website:
+<div style="width: 700px; overflow: auto;">
+<div style="width: 300px; float: left;">
+<p><img style="width:188px;height:188px" src="/img/omer.jpg" alt="Omer Cayirpunar"><br></p>
+<ul>
+ <li>Omer Cayirpunar</li>
+ <li>Email:</li>
+ <li>Website:</li>
+</ul>
+</div>
+<div style="width: 300px; float: left;">
+<p><img style="width:188px;height:188px" src="/img/unal1.jpg" alt="Mehmet Unal Durmus"><br></p>
+<ul>
+ <li>Mehmet Unal Durmus</li>
+ <li>Email:</li>
+ <li>Website:</li>
+</ul>
+</div>
+</div>
 
 ## Undergraduate Students
 
