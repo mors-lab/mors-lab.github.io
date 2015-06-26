@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
++ Ahmet Tunç Bilgin, Esra Kadioglu-Urtis, "An Approach to Multi-Agent Pursuit Evasion Games Using Reinforcement Learning", 17th International Conference on Advanced Robotics, ICAR 2015, Istanbul
+
 + Ahmet Tunç Bilgin, "AN APPROACH TO MULTI-AGENT PURSUIT EVASION GAMES USING REINFORCEMENT LEARNING", MS Thesis, TOBB ETÜ Department of Computer Engineering, 2013.
 
 + Omer Cayirpunar, Esra Kadioglu-Urtis, Bulent Tavli, "The impact of base station mobility patterns on Wireless Sensor Network lifetime", Personal Indoor and Mobile Radio Communications (PIMRC), 2013 IEEE 24th International Symposium, 2701-2706
