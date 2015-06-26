@@ -54,3 +54,15 @@ permalink: /people/
 </ul>
 </div>
 </div>
+
+## Alumni
+<div style="width: 700px; overflow: auto;">
+<div style="width: 300px; float: left;">
+<p><img style="width:188px;height:188px" src="/img/tunc.jpg" alt="Ahmet Tunç Bilgin"><br></p>
+<ul>
+ <li>Ahmet Tunç Bilgin</li>
+ <li>Email: tunc.bilgin[at]gmail[dot]com</li>
+ <li>Website: <a href="https://www.linkedin.com/pub/ahmet-tun%C3%A7-bilgin/63/386/429">LinkedIn</a></li>
+</ul>
+</div>
+</div>
