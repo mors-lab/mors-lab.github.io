@@ -36,7 +36,6 @@ permalink: /people/
 
 ## Undergraduate Students
 
-</div>
 <div style="width: 300px; float: left;">
 <p><img style="width:188px;height:188px" src="/img/tarik.jpg" alt="Tarik Kelestemur"><br></p>
 <ul>
