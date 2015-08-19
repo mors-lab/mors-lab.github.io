@@ -36,14 +36,6 @@ permalink: /people/
 
 ## Undergraduate Students
 
-<div style="width: 700px; overflow: auto;">
-<div style="width: 300px; float: left;">
-<p><img style="width:188px;height:188px" src="/img/umur2.jpg" alt="Umur Ozhan Sengul"><br></p>
-<ul>
- <li>Umur Ozhan Sengul</li>
- <li>Email: umursengul[at]ieee[dot]org</li>
- <li>Website: <a href="https://about.me/umursengul">about.me/umursengul</a></li>
-</ul>
 </div>
 <div style="width: 300px; float: left;">
 <p><img style="width:188px;height:188px" src="/img/tarik.jpg" alt="Tarik Kelestemur"><br></p>
@@ -63,6 +55,15 @@ permalink: /people/
  <li>Ahmet Tunç Bilgin</li>
  <li>Email: tunc.bilgin[at]gmail[dot]com</li>
  <li>Website: <a href="https://www.linkedin.com/pub/ahmet-tun%C3%A7-bilgin/63/386/429">LinkedIn</a></li>
+</ul>
+</div>
+<div style="width: 700px; overflow: auto;">
+<div style="width: 300px; float: left;">
+<p><img style="width:188px;height:188px" src="/img/umur2.jpg" alt="Umur Ozhan Sengul"><br></p>
+<ul>
+ <li>Umur Ozhan Sengul</li>
+ <li>Email: umursengul[at]ieee[dot]org</li>
+ <li>Website: <a href="https://about.me/umursengul">about.me/umursengul</a></li>
 </ul>
 </div>
 </div>
