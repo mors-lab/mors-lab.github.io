@@ -15,6 +15,7 @@ permalink: /people/
 
 ## PhD Students
 
+<div style="width: 700px; overflow: auto;">
 
 <div style="width: 300px; float: left;">
 <p><img style="width:188px;height:188px" src="/img/unal1.jpg" alt="Mehmet Unal Durmus"><br></p>
@@ -40,7 +41,6 @@ permalink: /people/
 </div>
 
 ## Alumni
-
 <div style="width: 700px; overflow: auto;">
 <div style="width: 300px; float: left;">
 <p><img style="width:188px;height:188px" src="/img/omer.jpg" alt="Omer Cayirpunar"><br></p>
@@ -51,7 +51,6 @@ permalink: /people/
 </ul>
 </div>
 
-<div style="width: 700px; overflow: auto;">
 <div style="width: 300px; float: left;">
 <p><img style="width:188px;height:188px" src="/img/tunc.jpg" alt="Ahmet Tunç Bilgin"><br></p>
 <ul>
