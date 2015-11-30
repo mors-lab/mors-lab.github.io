@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
++ Omer Cayirpunar, Esra Kadioglu-Urtis, Bulent Tavli, "Optimal Base Station Mobility Patterns for Wireless Sensor Network Lifetime Maximization", Sensors Journal, IEEE  (Volume:15 ,  Issue: 11 ), p. 6592 - 6603
 
 + Ahmet Tunç Bilgin, Esra Kadioglu-Urtis, "An Approach to Multi-Agent Pursuit Evasion Games Using Reinforcement Learning", 17th International Conference on Advanced Robotics, ICAR 2015, Istanbul
 
