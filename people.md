@@ -13,7 +13,7 @@ permalink: /people/
 + Website:
 
 
-## PhD Students
+## Graduate Students
 
 <div style="width: 700px; overflow: auto;">
 
@@ -25,6 +25,27 @@ permalink: /people/
  <li>Website:</li>
 </ul>
 </div>
+
+
+<div style="width: 300px; float: left;">
+<p><img style="width:188px;height:188px" src="/img/yunus.jpg" alt="Yunus Ataş"><br></p>
+<ul>
+ <li>Yunus Ataş</li>
+ <li>Email:</li>
+ <li>Website:<a href="https://tr.linkedin.com/in/yunus-ata%C5%9F-37597669/en">LinkedIn</a></li>
+</ul>
+</div>
+
+
+<div style="width: 300px; float: left;">
+<p><img style="width:188px;height:188px" src="/img/can.jpg" alt="Can Koçak"><br></p>
+<ul>
+ <li>Can Koçak</li>
+ <li>Email:</li>
+ <li>Website:</li>
+</ul>
+</div>
+
 </div>
 
 ## Undergraduate Students
